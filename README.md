@@ -1,13 +1,11 @@
-<!-- GitHub Profile README: Sandhya Timsina -->
-
-<!-- Banner Image (Optional) -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/l4e5QK4.png" alt="banner" width="100%" /> <!-- Replace with your own banner image URL -->
+  <img src="https://raw.githubusercontent.com/SANDHYA681/SANDHYA681/main/banner.png" alt="Banner" width="100%" /> <!-- Upload your image as 'banner.png' in your repo -->
 </p>
 
-<!-- Profile Photo -->
+<!-- Profile Photo (Optional, can be your GitHub avatar) -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Sandhya Timsina" width="150" style="border-radius:50%" /> <!-- Replace with your own profile photo URL -->
+  <img src="https://avatars.githubusercontent.com/u/youruserid?v=4" alt="Sandhya Timsina" width="150" style="border-radius:50%;" /> <!-- You can upload your own photo to your repo and link it here if you want a custom one -->
 </p>
 
 <h1 align="center">Hi there, I'm Sandhya Timsina! 👋</h1>
@@ -46,11 +44,11 @@ I enjoy exploring new technologies, collaborating on cool projects, and constant
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandhya-timsina&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Sandhya's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sandhya-timsina&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SANDHYA681&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Sandhya's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SANDHYA681&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhya-timsina&layout=compact&theme=tokyonight&hide_border=true" height="120" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDHYA681&layout=compact&theme=tokyonight&hide_border=true" height="120" alt="Top Languages"/>
 </p>
 
 ---
@@ -58,9 +56,9 @@ I enjoy exploring new technologies, collaborating on cool projects, and constant
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:sandhyatimsina438@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:sandhya.timsina@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/sandhya-timsina"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/sandhya-timsina"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/SANDHYA681"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
