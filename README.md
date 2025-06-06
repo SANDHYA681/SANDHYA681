@@ -1,9 +1,5 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SANDHYA681/SANDHYA681/main/banner.png" alt="Banner" width="100%" />
-</p>
 
-<!-- Profile Photo (Optional, you can remove if you like) -->
+<!-- Profile Photo (Optional, can use your GitHub avatar) -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Sandhya Timsina" width="130" style="border-radius:50%;" />
 </p>
@@ -18,7 +14,7 @@
 
 ## 👋 About Me
 
-I'm **Sandhya Timsina**, a passionate developer.
+I'm **Sandhya Timsina**, a passionate developer skilled in both hardware and software — from microcontrollers to full-stack web development.  
 I love solving problems, collaborating on cool projects, and building technology that makes life easier and smarter.  
 Open to opportunities and always happy to connect with other tech enthusiasts!
 
