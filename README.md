@@ -1,25 +1,50 @@
-<!-- Centered Profile Photo -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SANDHYA681/SANDHYA681/main/profile.png" width="160" height="160" style="border-radius:50%;" alt="Sandhya Timsina" />
+  <img src="https://raw.githubusercontent.com/SANDHYA681/SANDHYA681/main/banner.png" alt="Sandhya Timsina Banner" width="90%" />
 </p>
 
-<h1 align="center">👋 Hi there, I'm Sandhya Timsina!</h1>
+<h1 align="center" style="font-size:3.5rem; font-weight:bold; margin-bottom:0;">Sandhya Timsina</h1>
+<h3 align="center" style="font-size:2rem; margin-top:0; color:#36BCF7;">Full Stack Developer | Tech Explorer</h3>
 
+<!-- Centered student or learning image -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&vCenter=true&width=440&lines=Passionate+Developer;Tech+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/SANDHYA681/SANDHYA681/main/centerimage.png" alt="Student Learning" width="320" />
 </p>
+
+<p align="center" style="font-size:1.5rem;">
+  <b>AI • Cloud • Automation • Data Science • UI/UX • Coding for Impact</b>
+</p>
+
+<!-- Contact and Profile Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandhya-timsina" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sandhya.timsina@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/SANDHYA681" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SANDHYA681&label=PROFILE+VIEWS&style=for-the-badge&color=6A5ACD" alt="Profile Views"/>
+</p>
+
+<br/>
 
 ---
 
-<p align="center">
-  <b>I'm passionate about building scalable software, solving real-world problems, and learning new technologies!</b>
-  <br>
-  <b>Currently exploring AI, cloud, and smart automation projects.</b>
-</p>
+## 🦄 About Me
+
+Hi! I'm **Sandhya Timsina**, a creative problem-solver who loves learning new tech and making ideas real with code.  
+My mission: **Build digital solutions that make life easier, smarter, and more fun!**
+
+- 💡 **Skilled In:** Arduino, AWS, HTML5, Java, JavaScript, Linux, MySQL, Oracle, PHP, Python, React
+- 🎯 **Interests:** AI, IoT, Cloud, Data, UI/UX, EdTech, Automation  
+- 🛠 **Philosophy:** Code with empathy. Learn every day. Help others grow.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
@@ -38,43 +63,21 @@
 
 ---
 
-## 📚 Latest Projects & Articles
-
-- [Project Title 1](#) — Short description of what you built or wrote.
-- [Project Title 2](#) — Short description of your work.
-- [Project Title 3](#) — You can add links to blogs, tutorials, or videos here.
 
 ---
 
-## ☕ Support Me
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/YOURUSERNAME">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SANDHYA681&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SANDHYA681&theme=tokyonight&hide_border=true" height="160" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDHYA681&layout=compact&theme=tokyonight&hide_border=true" height="110"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SANDHYA681&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SANDHYA681&theme=tokyonight&hide_border=true" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDHYA681&layout=compact&theme=tokyonight&hide_border=true" height="120"/>
-</p>
-
----
-
-## 📫 Contact
-
-<p align="center">
-  <a href="mailto:sandhya.timsina@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sandhya-timsina"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/SANDHYA681"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
 
 ---
 
