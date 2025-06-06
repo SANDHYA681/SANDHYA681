@@ -1,25 +1,26 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SANDHYA681/SANDHYA681/main/banner.png" alt="Banner" width="100%" /> <!-- Upload your image as 'banner.png' in your repo -->
+  <img src="https://raw.githubusercontent.com/SANDHYA681/SANDHYA681/main/banner.png" alt="Banner" width="100%" />
 </p>
 
-<!-- Profile Photo (Optional, can be your GitHub avatar) -->
+<!-- Profile Photo (Optional, you can remove if you like) -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/youruserid?v=4" alt="Sandhya Timsina" width="150" style="border-radius:50%;" /> <!-- You can upload your own photo to your repo and link it here if you want a custom one -->
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Sandhya Timsina" width="130" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi there, I'm Sandhya Timsina! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=36BCF7&vCenter=true&width=440&lines=Passionate+Developer;Lifelong+Learner;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=36BCF7&vCenter=true&width=440&lines=Passionate+Developer;Tech+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-I'm **Sandhya Timsina** — a passionate developer who loves building creative solutions with code, hardware, and cloud!  
-I enjoy exploring new technologies, collaborating on cool projects, and constantly learning to stay ahead in tech.
+I'm **Sandhya Timsina**, a passionate developer.
+I love solving problems, collaborating on cool projects, and building technology that makes life easier and smarter.  
+Open to opportunities and always happy to connect with other tech enthusiasts!
 
 ---
 
@@ -44,7 +45,7 @@ I enjoy exploring new technologies, collaborating on cool projects, and constant
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SANDHYA681&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Sandhya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SANDHYA681&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SANDHYA681&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
 <p align="center">
@@ -63,14 +64,14 @@ I enjoy exploring new technologies, collaborating on cool projects, and constant
 
 ---
 
-## 🎯 Fun Fact
+## 🎯 Fun Fact or Quote
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Coding Cat" />
 </p>
 
-> “First, solve the problem. Then, write the code.” — John Johnson
+> **“First, solve the problem. Then, write the code.”** — John Johnson
 
 ---
 
-<p align="center"><b>✨ Thanks for stopping by! ✨</b></p>
+<p align="center"><b>✨ Thanks for visiting my profile! ✨</b></p>
