@@ -1,7 +1,4 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SANDHYA681/SANDHYA681/main/banner.png" alt="Banner" width="100%" />
-</p>
+
 
 <!-- Profile Photo (Optional, you can remove if you like) -->
 <p align="center">
