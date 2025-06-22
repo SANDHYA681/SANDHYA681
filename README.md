@@ -38,13 +38,18 @@ Open to opportunities and always happy to connect with other tech enthusiasts!
 </p>
 
 ---
-
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SANDHYA681&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=SANDHYA681&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDHYA681&layout=compact&theme=tokyonight&hide_border=true" height="120" alt="Top Languages"/>
+</p>
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDHYA681&layout=compact&theme=tokyonight&hide_border=true" height="120" alt="Top Languages"/>
 </p>
