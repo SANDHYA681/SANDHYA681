@@ -1,3 +1,6 @@
+
+
+
 <!-- Profile Photo (Optional, you can remove if you like) -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Sandhya Timsina" width="130" style="border-radius:50%;" />
@@ -13,11 +16,11 @@
 
 ## 👋 About Me
 
-I'm **Sandhya Timsina**, a passionate developer.  
+I'm **Sandhya Timsina**, a passionate developer.
 I love solving problems, collaborating on projects, and building technology that makes life easier and smarter.  
 Open to opportunities and always happy to connect with other tech enthusiasts!
-
 - 🛠 **Philosophy:** Code with empathy. Learn every day. Help others grow.
+
 
 ---
 
@@ -38,18 +41,13 @@ Open to opportunities and always happy to connect with other tech enthusiasts!
 </p>
 
 ---
+
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SANDHYA681&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=SANDHYA681&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SANDHYA681&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDHYA681&layout=compact&theme=tokyonight&hide_border=true" height="120" alt="Top Languages"/>
-</p>
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDHYA681&layout=compact&theme=tokyonight&hide_border=true" height="120" alt="Top Languages"/>
 </p>
@@ -60,7 +58,7 @@ Open to opportunities and always happy to connect with other tech enthusiasts!
 
 <p align="center">
   <a href="mailto:sandhyatimsina438@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/sandhya-timsina-689403310/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://https://www.linkedin.com/in/sandhya-timsina-689403310/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/SANDHYA681"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
