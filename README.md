@@ -1,6 +1,3 @@
-
-
-
 <!-- Profile Photo (Optional, you can remove if you like) -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Sandhya Timsina" width="130" style="border-radius:50%;" />
@@ -16,11 +13,9 @@
 
 ## 👋 About Me
 
-I'm **Sandhya Timsina**, a passionate developer.
-I love solving problems, collaborating on projects, and building technology that makes life easier and smarter.  
-Open to opportunities and always happy to connect with other tech enthusiasts!
+I'm **Sandhya Timsina**, a passionate developer who thrives on problem-solving, collaboration, and creating tech solutions that make life easier and smarter.  
+I am always open to opportunities and eager to connect with fellow tech enthusiasts!  
 - 🛠 **Philosophy:** Code with empathy. Learn every day. Help others grow.
-
 
 ---
 
@@ -58,7 +53,7 @@ Open to opportunities and always happy to connect with other tech enthusiasts!
 
 <p align="center">
   <a href="mailto:sandhyatimsina438@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://https://www.linkedin.com/in/sandhya-timsina-689403310/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sandhya-timsina-689403310/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/SANDHYA681"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
