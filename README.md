@@ -1,72 +1,70 @@
-<!-- Profile Photo (Optional, you can remove if you like) -->
+<!-- Profile Photo (Optional) -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Sandhya Timsina" width="130" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Purnima Basnet" width="130" style="border-radius:50%;" />
 </p>
 
-<h1 align="center">Hi there, I'm Sandhya Timsina! 👋</h1>
+<h1 align="center">Hi there, I'm Purnima Basnet! 🌼</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=36BCF7&vCenter=true&width=440&lines=Passionate+Developer;Tech+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FF69B4&vCenter=true&width=440&lines=Curious+Learner;Aspiring+Developer;Exploring+the+Tech+World+Every+Day" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👋 About Me
+## 🌸 About Me
 
-I'm **Sandhya Timsina**, a passionate developer who thrives on problem-solving, collaboration, and creating tech solutions that make life easier and smarter.  
-I am always open to opportunities and eager to connect with fellow tech enthusiasts!  
-- 🛠 **Philosophy:** Code with empathy. Learn every day. Help others grow.
+I'm **Purnima Basnet**, an enthusiastic and hardworking developer in the making!  
+I'm passionate about learning new technologies, solving real-world problems, and building something meaningful step by step.  
+- 💡 **Belief:** Every day is a new chance to learn and grow.
+- 🌱 Currently diving into **Python, Django**, and **Web Development**
+- 🤝 Looking to collaborate on student-friendly and social impact projects
 
 ---
 
-## 🛠️ Languages & Tools
+## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SANDHYA681&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SANDHYA681&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PURNAMEHERE&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PURNAMEHERE&theme=radical&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDHYA681&layout=compact&theme=tokyonight&hide_border=true" height="120" alt="Top Languages"/>
-</p>
-
----
-
-## 📫 Contact Me
-
-<p align="center">
-  <a href="mailto:sandhyatimsina438@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/sandhya-timsina-689403310/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/SANDHYA681"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PURNAMEHERE&layout=compact&theme=radical&hide_border=true" height="120" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🎯 Fun Fact or Quote
+## 📬 Contact Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Coding Cat" />
+  <a href="mailto:purnimabasnet123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/purnima-basnet/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/PURNAMEHERE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
-> **“First, solve the problem. Then, write the code.”** — John Johnson
 
 ---
 
-<p align="center"><b>✨ Thanks for visiting my profile! ✨</b></p>
+## 🌈 Fun Fact
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Laptop Girl" />
+</p>
+
+> “Push yourself, because no one else is going to do it for you.” — Unknown
+
+---
+
+<p align="center"><b>💖 Thanks for visiting Purnima's GitHub! 💖</b></p>
