@@ -13,12 +13,12 @@
 
 ## 🌼 About Me
 
-I'm **Sandhya Timsina**, a curious and driven full-stack developer who enjoys building practical and user-friendly digital solutions.
+I'm **Sandhya Timsina**, a curious and dedicated full-stack developer who enjoys building clean, real-world web solutions.
 
 - 🎓 BSc (Hons) Computing Student | Intern @ Digital Pathshala  
-- 💡 Exploring Django, React, and database systems  
-- 🌱 Always learning something new and improving  
-- ☕ Best ideas come to me over a good cup of tea
+- 💡 Exploring Django, React, and Database Management  
+- 🌱 Continuously learning and experimenting with new tools  
+- ☕ Creativity powered by milk tea and quiet focus time
 
 ---
 
@@ -42,7 +42,7 @@ I'm **Sandhya Timsina**, a curious and driven full-stack developer who enjoys bu
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SANDHYA681&show_icons=true&theme=blueberry&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SANDHYA681&theme=blueberry&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=SANDHYA681&theme=blueberry&hide_border=true" height="170" />
 </p>
 
 <p align="center">
@@ -79,4 +79,4 @@ I'm **Sandhya Timsina**, a curious and driven full-stack developer who enjoys bu
 
 ---
 
-<p align="center"><strong>🚀 Thanks for visiting my GitHub! Let’s create something awesome. 🤝</strong></p>
+<p align="center"><strong>🚀 Thanks for visiting my GitHub! Let's build something impactful together.</strong></p>
